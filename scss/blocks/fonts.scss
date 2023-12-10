@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fontsInter-Regular.eot');
+    src: local('Inter Regular'), local('Inter-Regular'),
+        url('../assets/fontsInter-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fontsInter-Regular.woff2') format('woff2'),
+        url('../assets/fontsInter-Regular.woff') format('woff'),
+        url('../assets/fontsInter-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fontsInter-Bold.eot');
+    src: local('Inter Bold'), local('Inter-Bold'),
+        url('../assets/fontsInter-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fontsInter-Bold.woff2') format('woff2'),
+        url('../assets/fontsInter-Bold.woff') format('woff'),
+        url('../assets/fontsInter-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fontsInter-Medium.eot');
+    src: local('Inter Medium'), local('Inter-Medium'),
+        url('../assets/fontsInter-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fontsInter-Medium.woff2') format('woff2'),
+        url('../assets/fontsInter-Medium.woff') format('woff'),
+        url('../assets/fontsInter-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('../assets/fontsInter-SemiBold.eot');
+    src: local('Inter Semi Bold'), local('Inter-SemiBold'),
+        url('../assets/fontsInter-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fontsInter-SemiBold.woff2') format('woff2'),
+        url('../assets/fontsInter-SemiBold.woff') format('woff'),
+        url('../assets/fontsInter-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
